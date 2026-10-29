@@ -1,0 +1,7 @@
+.venv/
+.venv.zip
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+data/
